@@ -44,7 +44,7 @@ function generateQRCode(){
         text:qrText.value,
         height:size,
         width:size,
-        colorLight:"#fff",
-        colorDark:"#000",
+        colorLight:"transparent",
+        colorDark:"#fff",
     });
 }
