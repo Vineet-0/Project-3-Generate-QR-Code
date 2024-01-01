@@ -48,4 +48,3 @@ function generateQRCode(){
         colorDark:"black",
     });
 }
-https://viewepass-passno-750207234975.netlify.app/
